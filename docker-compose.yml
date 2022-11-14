@@ -18,7 +18,7 @@ services:
       - db
     ports:
       - "11015:8069"
-      - "20015:8072" # live chat
+      - "21015:8072" # live chat
     tty: true
     command: --
     environment:
