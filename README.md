@@ -1,6 +1,6 @@
 # Quick install
 
-Installing Odoo 16 with one command.
+Installing Odoo 15 with one command.
 
 (Supports multiple Odoo instances on one server)
 
