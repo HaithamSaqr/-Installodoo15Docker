@@ -11,8 +11,8 @@ services:
     volumes:
         - ./postgresql:/var/lib/postgresql/data
 
-  odoo16:
-    image: odoo:16
+  odoo15:
+    image: odoo:15
     user: root
     depends_on:
       - db
