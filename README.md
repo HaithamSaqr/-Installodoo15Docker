@@ -18,7 +18,7 @@ and
 curl -s https://raw.githubusercontent.com/HaithamSaqr/Installodoo15Docker/main/run.sh | sudo bash -s odoo-two 11015 21015
 ```
 
-to set up another Odoo instance @ `localhost:11015` (default master password: `YourPass`)
+to set up another Odoo instance @ `localhost:11015` (default master password: `F@ss@123456@@`)
 
 Some arguments:
 * First argument (**odoo-one**): Odoo deploy folder
